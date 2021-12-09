@@ -1,0 +1,6 @@
+ green #99ff66
+ background blue #CCFFFF
+ button ke color blue #33ccff
+ yellow #ffff00
+ red ff3300
+ Main theme #003366
